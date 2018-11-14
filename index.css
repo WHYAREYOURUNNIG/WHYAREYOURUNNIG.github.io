@@ -1,0 +1,13 @@
+.container{
+    background: blueviolet;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+
+.item{
+    width: 200px;
+    height: 200px;
+    background: lightcoral;
+}
